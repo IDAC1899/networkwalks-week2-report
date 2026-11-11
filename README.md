@@ -216,7 +216,7 @@ Finally, I learned that scope matters. I only tested targets I was authorised to
 *Figure 17: Zenmap ping scan of 192.168.100.0/24 (MACs partly masked)*
 
 ![topology](screenshots/W2-PM5-T7_topology.png)
-*Figure 18: Network topology*
+*Figure 18: Network topology ([PDF version](screenshots/W2-PM5-T7_topology.pdf))*
 
 <p align="center"><b>-End-</b></p>
 
